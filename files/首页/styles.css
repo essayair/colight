@@ -2425,3 +2425,13 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u73 {
+  border-width:0px;
+  position:absolute;
+  left:774px;
+  top:18px;
+  width:100px;
+  height:28px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
