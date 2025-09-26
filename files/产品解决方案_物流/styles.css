@@ -1410,7 +1410,7 @@
   font-weight:400;
   font-style:normal;
   font-size:14px;
-  color:#1F30FE;
+  color:rgba(32, 32, 32, 0.647058823529412);
   line-height:22px;
 }
 #u113 {
@@ -1425,7 +1425,7 @@
   font-weight:400;
   font-style:normal;
   font-size:14px;
-  color:#1F30FE;
+  color:rgba(32, 32, 32, 0.647058823529412);
   line-height:22px;
 }
 #u113 .text {
@@ -1458,7 +1458,7 @@
   font-weight:400;
   font-style:normal;
   font-size:14px;
-  color:rgba(0, 0, 0, 0.647058823529412);
+  color:#1F30FE;
   text-align:left;
 }
 #u114 {
@@ -1473,7 +1473,7 @@
   font-weight:400;
   font-style:normal;
   font-size:14px;
-  color:rgba(0, 0, 0, 0.647058823529412);
+  color:#1F30FE;
   text-align:left;
 }
 #u114 .text {
