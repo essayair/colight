@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u976_div {
+#u1026_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -34,7 +34,7 @@
   font-weight:700;
   font-style:normal;
 }
-#u976 {
+#u1026 {
   border-width:0px;
   position:absolute;
   left:158px;
@@ -46,14 +46,14 @@
   font-weight:700;
   font-style:normal;
 }
-#u976 .text {
+#u1026 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u976_text {
+#u1026_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
